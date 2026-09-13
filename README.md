@@ -1,5 +1,7 @@
 # Quest for Entropy #6 — The Droplet That Walks
 
+**Article:** [Quest for Entropy #6 — "The Droplet That Walks"](https://questforentropy.substack.com/p/the-droplet-that-walks)
+
 Companion code for the article *The Droplet That Walks*.
 
 The article reads the walking-droplet experiments (Couder, Fort, Bush and colleagues) and
