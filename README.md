@@ -1,6 +1,6 @@
 # Quest for Entropy #6 — The Droplet That Walks
 
-**Article:** [Quest for Entropy #6 — "The Droplet That Walks"](https://questforentropy.substack.com/p/the-droplet-that-walks)
+**Article:** [Quest for Entropy #6 — "The Droplet That Walks"](https://questforentropy.com/p/the-droplet-that-walks) · also on [Substack](https://questforentropy.substack.com/p/the-droplet-that-walks)
 
 **Series:** ← [#5 Building a Wave](https://github.com/masteris777/quest-for-entropy-building-a-wave) · [#7 The Lattice That Was Too Perfect](https://github.com/masteris777/quest-for-entropy-the-lattice-that-was-too-perfect) →
 
